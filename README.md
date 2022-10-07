@@ -1,4 +1,4 @@
-##### Java records as DTOs
+#### Java records as DTOs
 
 **This is not production-ready code.**
 
