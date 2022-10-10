@@ -1,9 +1,12 @@
 #### Java records as DTOs
 
-**This is not production-ready code.**
+**This is not production-ready code.**  
 
-This project demonstrates one more way how to use records as DTOs (data transfer objects).
-It uses an in-memory H2 database, so no additional services are required.
+I created this code only for demonstrational purposes.
+
+
+This project demonstrates one more way of using records as DTOs (data transfer objects).  
+It utilizes an in-memory H2 database (so no additional DB services are required), Spring Boot and Hibernate frameworks.
 
 Entities:
 - `Tag`
